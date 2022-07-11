@@ -3,7 +3,7 @@
 # Project Objective
 The main purpose of this project is to compare tweets from Brian Kemp and Gavin Newsom using text mining. The goals of this project is to find popular topics betwen the two govenors.
 
-# Methods uSED
+# Methods Used
 Text Mining
 Topic Modeling
 Twitter Web Scraping
